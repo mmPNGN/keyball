@@ -77,4 +77,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #undef LOCKING_SUPPORT_ENABLE
 #undef LOCKING_RESYNC_ENABLE
 
-#define TAPPING_TERM 50 // ミリ秒
+#define TAPPING_TERM 150 // ミリ秒
